@@ -1,5 +1,5 @@
 # Mars Lander Game
-Mars Lander Game based on pygame library.
+### Mars Lander Game based on pygame library.
 
 ## Introduction:
 The Python pygame package is an Open Source library for making multimedia applications and games. It is
@@ -32,7 +32,7 @@ zone results in a crash. A successful landing triggers an award of points, and a
 mission (with landing zones in new, random locations).
 
 
-## 1.	Mars Lander
+## 1.	The Mars Lander project
 This mini project was all about creating an updated version of one of the first arcade games to be based on a real space mission and using pseudo-realistic physics. It is called Lunar Lander by Atari and was launched back in 1979. 
 Mars Lander game was designed and built using the Python pygame package which is an Open Source library for making multimedia applications and games. It was pretty challenging and required to bring all the knowledge and skills one has acquired during the CS1527 course. However, it was all fun and worth the effort kind of experience which I believe motivated me and vastly expanded my knowledge in the field of Pygame and Python.
 
