@@ -5,21 +5,21 @@
 
 
 
-## Introduction:
+## Introduction
 The Python pygame package is an Open Source library for making multimedia applications and games. It is
 built on top of the excellent SDL library, and like that library it is highly portable and runs on nearly every
 platform and operating system.
 pygame home page:
 https://www.pygame.org
 
-## Documentation, including tutorials and sample code:
+## Documentation, including tutorials and sample code
 https://www.pygame.org/docs/
 pygame is excellent for reproducing classic arcade games from the 1970s and 80s, and it has been used to
 recreate Pong, Pacman, Snake, Defender, and Asteroids amongst many others.
 We introduced pygame in CS1527 Practical 8 and you are urged to study the sample programs and exercise
 solutions before starting work on this mini-project assessment.
 
-## Background:
+## Background
 One of the first arcade games to be based on a real space
 mission and using pseudo-realistic physics was Lunar
 Lander (Atari, 1979).
@@ -36,11 +36,11 @@ zone results in a crash. A successful landing triggers an award of points, and a
 mission (with landing zones in new, random locations).
 
 
-## 1.	The Mars Lander project
+## The Mars Lander project
 This mini project was all about creating an updated version of one of the first arcade games to be based on a real space mission and using pseudo-realistic physics. It is called Lunar Lander by Atari and was launched back in 1979. 
 Mars Lander game was designed and built using the Python pygame package which is an Open Source library for making multimedia applications and games. It was pretty challenging and required to bring all the knowledge and skills one has acquired during the CS1527 course. However, it was all fun and worth the effort kind of experience which I believe motivated me and vastly expanded my knowledge in the field of Pygame and Python.
 
-## 2.	Description
+## Description
 The player begins with 3 ‘lives’, with the lander positioned at the top of the screen with random vertical and horizontal velocities. It also has 500 kg of fuel being reduced by 5 every time the main engine thrust is fired (‘space’ key). Whenever the lander goes beyond the right or the left of the screen it wraps onto the opposite side of it. Besides, the Mars lander is not allowed to fly off the top of the screen.
 
 At the top left hand corner of the game window the user is provided with instrument panel which displays the changing time, altitude, fuel reserves, velocity (x, y), damage sustained and lives left. The player’s main goal is to successfully land on one of the three landing pads placed on different locations on the Martian surface. Proper land adds up 50 points to the total game score which the user should aim to increase as much as possible. Furthermore, “You Have Landed Successfully! +50 pts” message is shown on the screen while the program is paused and waits for a key press.
@@ -52,7 +52,7 @@ The program also demonstrates 5 fixed position obstacle sprites which cause 10% 
 
 If one wishes to exit the game he/she can do so by pressing the ‘Esc’ key or by clicking the red ‘X’ button.
 
-## 3.	Testing
+## Testing
 The aim of testing is to make one understand more about the program or application under test. For this project I used the Bottom-Up testing approach to ensure it’s doing what I intend it to do. I ran the program every time I implemented a new feature in the code to analyze the output. It was the clearest and easiest way for me to check for errors. One of the main advantages of this approach is that it offers easier observation of test results. Besides, it does, indeed, have some disadvantages but at the end of the day it helped me reach my goal and understand how the Pygame package behaves. 
 
 
