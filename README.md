@@ -5,21 +5,21 @@
 
 
 
-## Introduction
+### Introduction
 The Python pygame package is an Open Source library for making multimedia applications and games. It is
 built on top of the excellent SDL library, and like that library it is highly portable and runs on nearly every
 platform and operating system.
 pygame home page:
 https://www.pygame.org
 
-## Documentation, including tutorials and sample code
+### Documentation, including tutorials and sample code
 https://www.pygame.org/docs/
 pygame is excellent for reproducing classic arcade games from the 1970s and 80s, and it has been used to
 recreate Pong, Pacman, Snake, Defender, and Asteroids amongst many others.
 We introduced pygame in CS1527 Practical 8 and you are urged to study the sample programs and exercise
 solutions before starting work on this mini-project assessment.
 
-## Background
+### Background
 One of the first arcade games to be based on a real space
 mission and using pseudo-realistic physics was Lunar
 Lander (Atari, 1979).
