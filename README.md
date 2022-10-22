@@ -8,7 +8,7 @@ The Python [Pygame](https://www.pygame.org) package is an open source library fo
 ## Background 
 One of the first arcade games to be based on a real space mission and using pseudo-realistic physics was Lunar Lander (Atari, 1979). In the game, players control a space vehicle as it makes its approach to the surface of the moon. By pressing various keyboard keys, the vehicle can be rotated right or left, or the main rocket engine fired (to decelerate the vehicle). Fuel is limited, so the player has to carefully manage the use of the main engine. Points are scored by landing on various landing zones, but the vehicle must have horizontal and vertical velocity below certain acceptable limits or it is destroyed. Similarly, attempting to land outside a landing zone results in a crash. A successful landing triggers an award of points, and a new landing mission (with landing zones in new, random locations). 
 
-## Mars Lander
+## Motivation
 This mini project was all about creating an updated version of one of the first arcade games to be based on a real space mission and using pseudo-realistic physics. It is called Lunar Lander by Atari and was launched back in 1979. Mars Lander game was designed and built using the Python Pygame package which is an Open Source library for making multimedia applications and games. It was pretty challenging and required to bring all the knowledge and skills one has acquired during the CS1527 course. However, it was all fun and worth the effort kind of experience which I believe motivated me and vastly expanded my knowledge in the field of Pygame and Python.
 
 ## Description 
